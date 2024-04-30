@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --> 
   
 
-### **<ins><div align="center">Hola... soy Harnel Peña, entusiasta del desarrollo de software🖥️📱, ciberseguridad🛡️, los videojuegos👾 y la gestion de proyectos🚀</div></ins>**  
+### **<ins><div align="center">Soy Harnel Peña, entusiasta del desarrollo de software🖥️📱, ciberseguridad🛡️, los videojuegos👾 y la gestion de proyectos🚀</div></ins>**  
   
 
 - 🌱 I’m currently learning Kubernetes, Front Laravel, Flutter, ML, Back Java.  
