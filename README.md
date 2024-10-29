@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Harnel Peña</h1>
 <h3 align="center">Ingeniero de Sistemas</h3>
 
-- 🔭 Actualmente estoy trabajando en **PHP ERP**
+- 🔭 Actualmente estoy trabajando en un proyecto de**PHP ERP**
 
 - 🌱 Estoy mejorando mis habilidades en **desarrollo de videojuegos, desarrollo Android, análisis de datos, ciberseguridad y desarrollo de software**
 
